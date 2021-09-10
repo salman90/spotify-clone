@@ -1,0 +1,33 @@
+.login {
+  display: flex;
+  background-color: black;
+  height: 100vh;
+  place-items: center;
+  flex-direction: column;
+}
+
+.imageConatiner {
+  display: flex;
+  flex:  1
+}
+
+.buttonConatiner {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.spotifyBanner {
+    height: 55%;
+    width: 100%;
+}
+
+
+.custombtn {
+  background-color: blueviolet !important;
+  border: #fff !important;
+}
+
+
